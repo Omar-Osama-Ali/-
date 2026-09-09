@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omar-osama-ali.github.io/2011/sitemap.xml
